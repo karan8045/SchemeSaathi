@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Scheme Saathi</string>
+    <string name="app_tagline">Discover Verified Government Schemes &amp; Jobs</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="saved">Saved</string>
+    <string name="alerts">Alerts</string>
+    <string name="profile">Profile</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="send_otp">Send One-Time Password (OTP)</string>
+    <string name="enter_otp">Enter 6-Digit OTP</string>
+    <string name="verify_otp">Verify &amp; Continue</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="demo_otp_hint">Demo Mode: Enter any 6-digit code e.g. 123456</string>
+    <string name="mandatory_onboarding_title">Welcome to Scheme Saathi</string>
+    <string name="onboarding_disclaimer">Scheme Saathi is an independent discovery platform and not a government department. Always verify information on official government portals before applying.</string>
+    <string name="ask_saathi">Ask Saathi AI</string>
+    <string name="apply_now">Apply on Official Portal</string>
+    <string name="application_assistant">Start Application Assistance</string>
+    <string name="connect_telegram">Connect Telegram Alerts</string>
+    <string name="simulate_opportunity">Simulate New Opportunity</string>
+    <string name="eligibility_status">Eligibility Status</string>
+    <string name="save_opportunity">Save</string>
+    <string name="saved_success">Saved to bookmarks!</string>
+    <string name="deadline_reminder">Set Deadline Reminder</string>
+    <string name="demo_persona">Quick Demo Personas</string>
+    <string name="logout">Log Out</string>
+    <string name="delete_account">Delete Account &amp; Data</string>
+</resources>

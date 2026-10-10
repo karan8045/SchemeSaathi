@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">स्कीम साथी</string>
+    <string name="app_tagline">सरकारी योजनाएं एवं नौकरियां खोजें</string>
+    <string name="home">होम</string>
+    <string name="explore">खोजें</string>
+    <string name="saved">सेव किए गए</string>
+    <string name="alerts">अलर्ट</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="enter_email">अपना ईमेल पता दर्ज करें</string>
+    <string name="send_otp">वन-टाइम पासवर्ड (OTP) भेजें</string>
+    <string name="enter_otp">6-अंकों का OTP दर्ज करें</string>
+    <string name="verify_otp">सत्यापित करें और आगे बढ़ें</string>
+    <string name="resend_otp">OTP पुनः भेजें</string>
+    <string name="demo_otp_hint">डेमो मोड: कोई भी 6-अंकीय कोड दर्ज करें जैसे 123456</string>
+    <string name="mandatory_onboarding_title">स्कीम साथी में आपका स्वागत है</string>
+    <string name="onboarding_disclaimer">स्कीम साथी एक स्वतंत्र नागरिक सेवा मंच है और कोई सरकारी विभाग नहीं है। आवेदन करने से पहले हमेशा आधिकारिक पोर्टल पर विवरण सत्यापित करें।</string>
+    <string name="ask_saathi">साथी AI से पूछें</string>
+    <string name="apply_now">आधिकारिक पोर्टल पर आवेदन करें</string>
+    <string name="application_assistant">आवेदन सहायता शुरू करें</string>
+    <string name="connect_telegram">टेलीग्राम अलर्ट जोड़ें</string>
+    <string name="simulate_opportunity">नये अवसर का अनुकरण करें</string>
+    <string name="eligibility_status">पात्रता स्थिति</string>
+    <string name="save_opportunity">सेव करें</string>
+    <string name="saved_success">बुकमार्क में सेव हो गया!</string>
+    <string name="deadline_reminder">अंतिम तिथि रिमाइंड सेट करें</string>
+    <string name="demo_persona">त्वरित डेमो प्रोफ़ाइल</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="delete_account">खाता और डेटा हटाएं</string>
+</resources>
